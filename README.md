@@ -29,3 +29,9 @@ Programming-Fundamentals-CPP/
     │   └── main.cpp
     └── calculate_word_length/
         └── main.cpp
+
+## Repository Structure
+* **Name:** Husnain Mehmood
+* **Roll Number:** su92-bssem-f25-066
+* **Program:** BS Software Engineering
+* **Institution:** Superior University
