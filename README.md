@@ -4,8 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 ## Overview
-This repository serves as a structured collection of programming assignments for the **Programming Fundamentals (PF)** course at **Superior University**. It showcases fundamental C++ software development principles including modular code design, array manipulation, mathematical problem-solving, searching algorithms, and manual C-string processing without relying on standard library shortcuts.
-
+This repository contains C++ implementations for the Programming Fundamentals assignment tasks. All programs are stored directly in the root directory. The topics covered include 1D/2D array manipulations, manual C-string operations, modular functions, function overloading, explicit type casting, and core algorithmic logic (e.g., Euclidean GCD algorithm, two-pointer array swapping).
 ---
 
 ## Repository Structure
@@ -35,3 +34,4 @@ Programming-Fundamentals-CPP/
 * **Roll Number:** su92-bssem-f25-066
 * **Program:** BS Software Engineering
 * **Institution:** Superior University
+* **Instructor:** Sir Umar Khalil
