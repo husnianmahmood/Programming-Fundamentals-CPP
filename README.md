@@ -2,6 +2,7 @@
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+## Author
 
 **Student:** Husnain Mahmood (Roll No: 066)  
 **University:** Superior University  
