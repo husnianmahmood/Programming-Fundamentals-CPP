@@ -3,35 +3,50 @@
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
-## Overview
-This repository contains C++ implementations for the Programming Fundamentals assignment tasks. All programs are stored directly in the root directory. The topics covered include 1D/2D array manipulations, manual C-string operations, modular functions, function overloading, explicit type casting, and core algorithmic logic (e.g., Euclidean GCD algorithm, two-pointer array swapping).
+**Student:** Husnain Mahmood (Roll No: 066)  
+**University:** Superior University  
+**Course:** Programming Fundamentals  
+**Instructor:** Sir Umar Khalil  
+
 ---
 
-## Repository Structure
+## 📖 Overview
+
+This repository contains C++ implementations covering core Programming Fundamentals topics. All source code files are placed directly in the root directory. Key concepts covered across these programs include:
+
+* **1D & 2D Array Processing:** Grid traversal, dynamic indexing, matrix sum/subtraction, and searching algorithms.
+* **C-String Manipulations:** Manual string length calculation, copying, reversing, vowel counting, and sorting without built-in string libraries.
+* **Modular Functions & Overloading:** Reusable functions, pass-by-array mechanisms, and function overloading.
+* **Basic Mathematics & Logic:** Exponentiation, GCD computation, leap year validation, temperature conversion, and arithmetic formulas.
+
+---
+
+## 📁 Project Structure
 
 ```text
-Programming-Fundamentals-CPP/
-│
+.
 ├── README.md
-├── .gitignore
-│
-└── Assignment_03/
-    ├── calculate_average/
-    │   └── main.cpp
-    ├── calculate_min_max/
-    │   └── main.cpp
-    ├── calculate_power/
-    │   └── main.cpp
-    ├── calculate_voltage/
-    │   └── main.cpp
-    ├── search_player_initial/
-    │   └── main.cpp
-    └── calculate_word_length/
-        └── main.cpp
-
-## Repository Structure
-* **Name:** Husnain Mehmood
-* **Roll Number:** su92-bssem-f25-066
-* **Program:** BS Software Engineering
-* **Institution:** Superior University
-* **Instructor:** Sir Umar Khalil
+├── alphabetical_sorter.cpp
+├── calculate_area_overloading.cpp
+├── calculate_bowling_average.cpp
+├── calculate_min_max.cpp
+├── calculate_power.cpp
+├── calculate_second_min_max.cpp
+├── calculate_strike_rate.cpp
+├── calculate_sum.cpp
+├── calculate_voltage.cpp
+├── calculate_word_length.cpp
+├── celsius_to_fahrenheit.cpp
+├── check_leap_year.cpp
+├── class_test_score_average.cpp
+├── copy_word.cpp
+├── count_even_odd_numbers.cpp
+├── count_vowels.cpp
+├── display_2d_array.cpp
+├── find_gcd.cpp
+├── get_string_length.cpp
+├── print_vertical_word.cpp
+├── reverse_word.cpp
+├── search_player_initial.cpp
+├── subtract_from_first_element.cpp
+└── sum_2d_array.cpp
