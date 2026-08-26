@@ -124,11 +124,11 @@ concepts, including:
 
 # 📂 Projects
 
-## 1. 📚 Assignment 02
+## 1. 📚 Programming Exercises
 
 A collection of C++ programming exercises covering arrays, C-strings,
-functions, mathematical computations, searching, and basic programming
-logic.
+functions, mathematical computations, searching, and fundamental
+programming logic.
 
 ### Topics Covered
 
@@ -145,7 +145,7 @@ logic.
 - Temperature conversion
 - Leap year validation
 
-👉 [View Assignment 02](./Assignment_02/)
+👉 [View Programming Exercises](./programming_exercises/)
 
 ---
 
@@ -196,7 +196,7 @@ Programming-Fundamentals-CPP/
 │
 ├── README.md
 │
-├── Assignment_02/
+├── programming_exercises/
 │   ├── alphabetical_sorter.cpp
 │   ├── calculate_area_overloading.cpp
 │   ├── calculate_bowling_average.cpp
